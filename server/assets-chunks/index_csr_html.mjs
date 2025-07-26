@@ -3,7 +3,7 @@ export default `<!doctype html>
 <head>
   <meta charset="utf-8">
   <title>App1</title>
-  <base href="https://github.com/Avidha-Shaik/To-Do-List">
+  <base href="https://Avidha-Shaik.github.io/To-Do-List/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="styles-5INURTSO.css"></head>

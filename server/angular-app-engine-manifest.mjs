@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://github.com/Avidha-Shaik/To-Do-List',
+  basePath: 'https://Avidha-Shaik.github.io/To-Do-List',
   supportedLocales: {
   "en-US": ""
 },

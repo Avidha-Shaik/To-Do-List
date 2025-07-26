@@ -1,7 +1,7 @@
 export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
   <meta charset="utf-8">
   <title>App1</title>
-  <base href="https://github.com/Avidha-Shaik/To-Do-List">
+  <base href="https://Avidha-Shaik.github.io/To-Do-List/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="styles-5INURTSO.css"><style ng-app-id="ng">*[_ngcontent-ng-c3931057563]{font-family:sans-serif;margin:0}.app[_ngcontent-ng-c3931057563]{background-color:#e0fbfc;max-width:40%;padding:10px;border:1px solid #C8D9DF;border-radius:15px;margin:30px 30px 30px 30%;color:#2b2d42;font-weight:300}h1[_ngcontent-ng-c3931057563]{margin-top:25px;font-size:30px;color:#1d3557;font-weight:600}</style><style ng-app-id="ng">.task-card[_ngcontent-ng-c1520181721]{padding:20px}</style><style ng-app-id="ng">.formClass[_ngcontent-ng-c2564068930]{display:flex;justify-content:center;align-items:center;flex-direction:column}.addtask[_ngcontent-ng-c2564068930]   h3[_ngcontent-ng-c2564068930]{display:flex;align-items:center;justify-content:center}#TaskTitle[_ngcontent-ng-c2564068930], #TaskDescription[_ngcontent-ng-c2564068930]{font-size:20px;margin-bottom:20px;color:#333;border-radius:5px;background-color:#f8ffff;padding:5px}.addtask[_ngcontent-ng-c2564068930]{margin-top:10px;margin-bottom:30px;padding:20px}.btn[_ngcontent-ng-c2564068930]{background-color:#72b5a4;height:30px;width:150px;border-radius:5px;border:1px solid #e6ded7;font-weight:1000}.btn[_ngcontent-ng-c2564068930]:hover{background-color:#64a69f}</style></head>
